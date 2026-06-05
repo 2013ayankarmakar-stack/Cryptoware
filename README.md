@@ -15,3 +15,8 @@ Cryptoware (or crypto-ransomware) is a type of malicious software that infects y
 Enjoy!!
 
 #### P.S. The password for the decrypt file is "B00TY".
+###### "voldemort.py" is the malware, "decrypt.py" is the decrypt file, and "tryfindme.py" is the key.
+
+## How To Use:
+Get the three files on your computer. (They should be in same directory)
+Run these codes from the terminal coz i forgot to how to make the run on click. lol
